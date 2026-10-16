@@ -38,12 +38,6 @@ var me = new Engineer(
   <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,postgres,redis,nginx,aws,grafana,linux,git,github,bitbucket,postman,idea&perline=8" alt="Tech stack" />
 </p>
 
-### 🚀 Featured project
-
-**[YAM Movies Website](https://github.com/A7mad3bd/YAM-Movies-Project)** · Java · Spring Boot · PostgreSQL
-
-A movie platform with user login, trending movies, and third-party API integrations for trailers and reviews.
-
 > 🔒 Most of my day-to-day work lives in private company repositories. The public repos here are side and learning projects.
 
 <div align="center">
