@@ -1,25 +1,53 @@
-<h1 align="center">Hi 👋, I'm Ahmad Al-Khalili</h1>
-<h3 align="center">Software Developer from Jordan</h3>
-<img align="right" width="400" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
-- 🔭 I’m currently working on DOT Company
+<div align="center">
 
-- 🌱 I’m currently learning **Spring boot and Design patterns**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=1F6FEB&center=true&vCenter=true&width=640&lines=Hi%2C+I'm+Ahmad+Al-Khalili+%F0%9F%91%8B;Java+Backend+Software+Engineer;Payments+%26+Fintech+%E2%80%A2+Spring+Boot+%E2%80%A2+REST+APIs;25%2B+payment+channels+across+20%2B+countries" alt="Java Backend Software Engineer" />
 
-- 💬 Ask me about **Java**
+<a href="https://www.linkedin.com/in/ahmad-al-khalili"><img src="https://img.shields.io/badge/LinkedIn-ahmad--al--khalili-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:ahmad.abdallah.alkhalili@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<img src="https://img.shields.io/badge/Amman-Jordan-2E7D32?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Amman, Jordan" />
 
-- 📫 How to reach me **Ahm0187126@ju.edu.jo**
+</div>
 
-- ⚡ My rule **Think twice code once**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ahmad al-khalili" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmad al-khalili" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/ahmad_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ahmad_" height="30" width="40" /></a>
+### 💳 About me
+
+I'm a **Java Backend Software Engineer at DOT**, a digital payment aggregator, where I build and run payment integrations in production.
+
+- 🌍 Integrated **25+ payment channels across 20+ countries**: Direct Carrier Billing (DCB) operators, e-wallets, and Alinma Bank (KSA)
+- 🎮 Payment routing, subscriptions, and e-voucher fulfillment for gaming partners such as Garena, PUBG (Midasbuy), and Xsolla
+- 🔐 Security: Mutual TLS, 3DS for customer-initiated transactions, MIT flows for recurring charges, fraud-prevention rules
+- ⚡ Performance: Java 21 Virtual Threads, NGINX / Tomcat / JDBC pool tuning, legacy-to-cloud migrations
+- 📈 Observability: Grafana dashboards and alerting with Loki
+- 🤖 AI-assisted development with Claude Code for refactoring, code review, and documentation
+
+```java
+public record Engineer(String name, String role, List<String> stack, String focus) {}
+
+var me = new Engineer(
+    "Ahmad Al-Khalili",
+    "Java Backend Software Engineer @ DOT",
+    List.of("Java 21", "Spring Boot", "Hibernate/JPA", "MySQL", "Redis", "NGINX"),
+    "Payment integrations: DCB, e-wallets, 3DS, mTLS"
+);
+```
+
+### 🛠️ Tech stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,postgres,redis,nginx,aws,grafana,linux,git,github,bitbucket,postman,idea&perline=8" alt="Tech stack" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+### 🚀 Featured project
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=a7mad3bd&show_icons=true&locale=en&layout=compact" alt="a7mad3bd" /></p>
+**[YAM Movies Website](https://github.com/A7mad3bd/YAM-Movies-Project)** · Java · Spring Boot · PostgreSQL
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=a7mad3bd&show_icons=true&locale=en" alt="a7mad3bd" /></p>
+A movie platform with user login, trending movies, and third-party API integrations for trailers and reviews.
+
+> 🔒 Most of my day-to-day work lives in private company repositories. The public repos here are side and learning projects.
+
+<div align="center">
+
+**Think twice, code once.**
+
+</div>
