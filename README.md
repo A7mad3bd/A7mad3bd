@@ -22,20 +22,18 @@ I'm a **Java Backend Software Engineer at DOT**, a digital payment aggregator, w
 - 🤖 AI-assisted development with Claude Code for refactoring, code review, and documentation
 
 ```java
-public record Engineer(String name, String role, List<String> stack, String focus) {}
-
-var me = new Engineer(
-    "Ahmad Al-Khalili",
-    "Java Backend Software Engineer @ DOT",
-    List.of("Java 21", "Spring Boot", "Hibernate/JPA", "MySQL", "Redis", "NGINX"),
-    "Payment integrations: DCB, e-wallets, 3DS, mTLS"
-);
+public class Engineer {
+    String name   = "Ahmad Al-Khalili";
+    String role   = "Java Backend Software Engineer @ DOT";
+    String[] skills = {"Java", "Spring Boot", "OOP", "SQL", "Hibernate/JPA", "MySQL"};
+    String focus  = "Payment integrations";
+}
 ```
 
 ### 🛠️ Tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,postgres,redis,nginx,aws,grafana,linux,git,github,bitbucket,postman,idea&perline=8" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,postgres,nginx,aws,grafana,linux,git,github,bitbucket,postman,idea&perline=7" alt="Tech stack" />
 </p>
 
 > 🔒 Most of my day-to-day work lives in private company repositories. The public repos here are side and learning projects.
